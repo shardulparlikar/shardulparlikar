@@ -39,6 +39,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/shardulparlikar/shardulparlikar/output/snake.svg" alt="Snake animation" />
 
 ###
